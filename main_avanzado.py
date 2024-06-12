@@ -1,4 +1,4 @@
-
+#belen
 # Lista de asientos inicializada con 42 listas vacías, representando cada asiento.
 asientos = [
     [],
